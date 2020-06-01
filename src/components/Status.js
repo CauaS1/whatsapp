@@ -1,9 +1,7 @@
 import React, { Component } from 'react';
 import { ScrollView, View, Text, StyleSheet, Image, TouchableOpacity } from 'react-native';
 
-// import { Container } from './myStatus';
-
-import Teen3 from '../img/teen3.jpg';
+import CauaS1 from '../img/cauas1.png';
 
 import TimeSquare from '../images/timesquare.jpg';
 import MiamiBeach from '../images/miamibeach.jpg';
@@ -22,7 +20,7 @@ export default class Status extends Component {
           <View style={myStatus.myStatus}>
             <View style={myStatus.imgContainer}>
               <Image
-                source={Teen3}
+                source={CauaS1}
                 style={myStatus.img}
               />
               <View style={myStatus.more}>
