@@ -3,7 +3,7 @@ This project is almost a perfect copy from WhatsApp, at least by design :)
 
 ## Screeshot Project
 
-<img src="https://github.com/CauaS1/whatsapp/blob/master/src/images/demonstration.jpg" >
+<img src="https://github.com/CauaS1/whatsapp/blob/master/src/images/demo.jpg" >
 
 ## Dependences
 
