@@ -3,10 +3,17 @@ This project is a WhatsApp copy. In this update the pages are created dynamicall
 
 ## Before vs After 
 
-<strong>Before:</strong> All of the project are only design, so if I had 15 differents people, I had the same `<View>`, `<Text>`, `<Image/>` 15 times  <br>
-<strong>After:</strong> Now its all dynamically, where the 15 people are create only 1 time, with `<FlatList>`
+<strong>Before:</strong> All of the project was only design, so if I had 15 differents people, I had the same `<View>`, `<Text>`, `<Image/>` 15 times  <br>
+<strong>After:</strong> Now its all dynamically, where the 15 people are create only 1 time, with `<FlatList>`. I did a Modal that show the Status with a time limit,
+and show the Profile Photo style Instagram. 
 
 ## Pages
+
+<p float="left">
+  <img src="https://github.com/CauaS1/whatsapp/blob/master/Screens/Home.jpg" width="300" />
+  <img src="https://github.com/CauaS1/whatsapp/blob/master/Screens/Status.jpg" width="300" /> 
+  <img src="https://github.com/CauaS1/whatsapp/blob/master/Screens/Calls.jpg" width="300" />
+</p>
 
 ## What I Learned ?
 
