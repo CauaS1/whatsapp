@@ -13,6 +13,9 @@ and show the Profile Photo style Instagram.
   <img src="https://github.com/CauaS1/whatsapp/blob/master/Screens/Home.jpg" width="300" />
   <img src="https://github.com/CauaS1/whatsapp/blob/master/Screens/Status.jpg" width="300" /> 
   <img src="https://github.com/CauaS1/whatsapp/blob/master/Screens/Calls.jpg" width="300" />
+  <img src="https://github.com/CauaS1/whatsapp/blob/master/Screens/perfil.jpg" width="300" />
+  <img src="https://github.com/CauaS1/whatsapp/blob/master/Screens/showStatus.jpg" width="300" />
+
 </p>
 
 ## What I Learned ?
