@@ -29,4 +29,5 @@ Do you want to see this project in your device ? Install all dependence here
 
 <a href="https://github.com/oblador/react-native-vector-icons">Vector Icons</a>
 
-
+## Error
+I'm trying resolve a error where says "React Native mismatch", but i have a temporary solution, when you get this error, you need do `ctrl + s` in your Code Editor
