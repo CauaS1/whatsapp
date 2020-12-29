@@ -1,10 +1,10 @@
 # WhatAapp
 This project is a WhatsApp copy. In this update the pages are created dynamically.
 
-## Before vs After 
+## Before vs Now 
 
 <strong>Before:</strong> All of the project was only design, so if I had 15 differents people, I had the same `<View>`, `<Text>`, `<Image/>` 15 times  <br>
-<strong>After:</strong> Now its all dynamically, where the 15 people are create only 1 time, with `<FlatList>`. I did a Modal that show the Status with a time limit,
+<strong>Now:</strong> Now its all dynamically, where the 15 people are create only 1 time, with `<FlatList>`. I did a Modal that show the Status with a time limit,
 and show the Profile Photo style Instagram. 
 
 ## Pages
